@@ -1,0 +1,9 @@
+# Folders
+.vscode/
+bin/
+build/
+
+# Files
+.DS_STORE
+*.sorted
+auto

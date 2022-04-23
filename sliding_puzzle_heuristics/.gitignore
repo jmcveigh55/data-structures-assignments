@@ -1,0 +1,9 @@
+# Files
+.DS_Store
+solve
+*.txt
+*_solution.txt
+
+# Dirs
+build/
+.vscode/

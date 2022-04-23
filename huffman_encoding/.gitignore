@@ -1,0 +1,8 @@
+# Files
+.DS_Store
+heap
+huffman
+*.txt
+
+# Dirs
+build/
