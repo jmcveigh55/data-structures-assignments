@@ -15,7 +15,8 @@ Explore and implement various data structures and algorithms.
 >| Bubble Sort | Linked List |
 >| Binary Sort |  |
 
-![Project 1 Flow Diagram](https://raw.githubusercontent.com/Data-Structures-Assignments/autocomplete/doc/p1_flow.png)
+![Project 1 Flow Diagram](autocomplete/doc/pa1_flow.png)
+
 
 * ***Spell Check***
   * Focuses on implementing DS with minimum time complexity
@@ -25,7 +26,7 @@ Explore and implement various data structures and algorithms.
 >|  | Hash Table |
 >|  | Linked List |
 
-![Project 2 Flow Diagram](https://raw.githubusercontent.com/Data-Structures-Assignments/spellcheck/doc/p2_flow.png)
+![Project 2 Flow Diagram](spellcheck/doc/pa2_flow.png)
 
 * ***Huffman Encoding***
   * Focuses on implementing DS with minimum time complexity
